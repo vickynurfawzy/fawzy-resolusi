@@ -5,7 +5,11 @@ RENCANA BELAJAR VICKY
  * Framework Javascript
    ^ Angular
    ^ React
+   ^ Vue
+   ^ React
+ -Struktur Data Dasar
 - PHP Framework
   ^ Laravel
 - CSS
 - PHP
+- Phyton
