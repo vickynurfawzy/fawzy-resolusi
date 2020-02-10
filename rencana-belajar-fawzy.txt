@@ -3,6 +3,7 @@ RENCANA BELAJAR VICKY
 - Javascript
  * ES6
  * Framework Javascript
+ -Struktur Data Dasar
 - PHP Framework
 - CSS
 - PHP
