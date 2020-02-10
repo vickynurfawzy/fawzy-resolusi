@@ -1,0 +1,8 @@
+RENCANA BELAJAR VICKY
+
+- Javascript
+ * ES6
+ * Framework Javascript
+- PHP Framework
+- CSS
+- PHP
